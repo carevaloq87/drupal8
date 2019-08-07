@@ -1,0 +1,7 @@
+vla.content:
+  path: '/vla'
+  defaults:
+    _title: 'VLA Title'
+    _controller: '\Drupal\vla\Controller\VlaController::content'
+  requirements:
+    _permission: 'access content'

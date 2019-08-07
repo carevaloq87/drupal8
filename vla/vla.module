@@ -1,0 +1,10 @@
+<?php
+
+/**
+ * @file
+ * Vla module.
+ */
+function vla_page_attachments(array &$attachments)
+{
+    $attachments['#attached']['library'][] = 'vla/vla';
+}

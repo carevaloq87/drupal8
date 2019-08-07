@@ -1,0 +1,6 @@
+vla.admin:
+  title: 'VLA module settings'
+  description: 'example of how to make an admin settings page link'
+  parent: system.admin_config_system
+  route_name: vla.content
+  weight: 100

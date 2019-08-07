@@ -1,0 +1,6 @@
+vla:
+  version: 1.x
+  js:
+    js/vla.js: { preprocess: false }
+  dependencies:
+    - core/jquery

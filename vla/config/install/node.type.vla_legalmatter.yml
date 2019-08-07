@@ -1,0 +1,9 @@
+type: vla_legalmatter
+name: VLA Legal Matter Type
+description: 'Use <em>VLA LM</em> content to get to Drupal 8 development better.'
+help: ''
+new_revision: false
+display_submitted: true
+preview_mode: 1
+status: true
+langcode: en
